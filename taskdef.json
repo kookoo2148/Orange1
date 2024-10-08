@@ -17,6 +17,6 @@
   "family": "codedeploy-sample",
   "networkMode": "awsvpc",
   "requiresCompatibilities": ["EC2"],
-  "cpu": "16",
+  "cpu": "16384",
   "memory": "65536"
 }
